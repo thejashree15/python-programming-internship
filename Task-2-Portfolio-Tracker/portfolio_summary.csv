@@ -1,0 +1,4 @@
+Symbol,PurchasePrice,Quantity,CurrentPrice,Invested,MarketValue,ProfitLoss,ReturnPercent
+AAPL,200.0,2,230.0,400.0,460.0,60.0,15.0
+MSFT,400.0,3,420.0,1200.0,1260.0,60.0,5.0
+TOTAL,,,,1600.0,1720.0,120.0,7.5
